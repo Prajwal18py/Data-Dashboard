@@ -2,6 +2,10 @@
 
 An interactive web application for CSV data analysis and visualization built with Streamlit.
 
+## 🚀 Live App
+You can access the deployed application here:  
+👉 https://data-dashboard-18.streamlit.app/
+
 ## Features
 - Upload CSV files
 - Data preview and filtering
@@ -25,4 +29,5 @@ Then upload your CSV file and explore your data through the interactive interfac
 ## File Structure
 - `app.py` - Main Streamlit application
 - `requirements.txt` - Dependencies
+
 - `README.md` - This file
